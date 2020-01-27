@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\tsi",
-    "\\tsi\\src",
-    "\\tsi\\src\\app"
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\init-page",
+    "\\src\\assets",
+    "\\src\\assets\\img",
+    "\\src\\environments"
   ],
-  "SelectedNode": "\\tsi\\src\\app\\app.module.ts",
+  "SelectedNode": "\\src\\app\\init-page\\init-page.component.css",
   "PreviewInSolutionExplorer": false
 }
