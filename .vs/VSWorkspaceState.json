@@ -3,11 +3,8 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\init-page",
-    "\\src\\assets",
-    "\\src\\assets\\img",
-    "\\src\\environments"
+    "\\src\\app\\navbar"
   ],
-  "SelectedNode": "\\src\\app\\init-page\\init-page.component.css",
+  "SelectedNode": "\\src\\app\\navbar\\navbar.component.html",
   "PreviewInSolutionExplorer": false
 }
