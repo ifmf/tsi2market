@@ -1,8 +1,13 @@
+body,
+html {
+  height: 100%;
+}
+
 .bg {
   /* The image used */
-  background-image:url("/assets/img/breve2020.png");
-  /* Half height */
-  height: 50%;
+  background-image: url("/assets/img/breve2020.png");
+  /* Full height */
+  height: 100%;
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
