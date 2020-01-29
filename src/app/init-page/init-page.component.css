@@ -1,15 +1,16 @@
-body,
-html {
-  height: 100%;
-}
-
+/*
 .bg {
-  /* The image used */
-  background-image: url("/assets/img/breve2020.png");
-  /* Full height */
-  height: 100%;
-  /* Center and scale the image nicely */
+  
+  background-image:url(/Users/anagoncalves/Desktop/tsi2market/src/assets/img/breve2020.png);
+  
+  height: 110%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+
 }
+
+.text-center{
+  background-position: center;
+}
+ */
