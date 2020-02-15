@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { InitPageComponent } from './init-page/init-page.component';
+import { SpeakersComponent } from './speakers/speakers.component';
 import { SponsorshipsComponent } from './sponsorships/sponsorships.component';
 
 @NgModule({
@@ -15,6 +16,7 @@ import { SponsorshipsComponent } from './sponsorships/sponsorships.component';
     NavbarComponent,
     FooterComponent,
     InitPageComponent,
+    SpeakersComponent
     SponsorshipsComponent
   ],
   imports: [
