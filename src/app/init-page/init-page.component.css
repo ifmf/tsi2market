@@ -1,7 +1,6 @@
-/*
 .bg {
   
-  background-image:url(/Users/anagoncalves/Desktop/tsi2market/src/assets/img/breve2020.png);
+  background-image:url("/assets/img/breve2020.png");
   
   height: 110%;
   background-position: center;
@@ -13,4 +12,3 @@
 .text-center{
   background-position: center;
 }
- */
