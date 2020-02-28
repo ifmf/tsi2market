@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { Tsi19Component } from './tsi19/tsi19.component';
 
 const routes: Routes = [];
 
